@@ -1,0 +1,11 @@
+id_venda,vendedor,regiao,data_venda,meta_mensal,valor_venda
+1,Ana Souza,Sudeste,2024-01-10,20000,18500
+2,Lucas Lima,Sul,2024-01-12,18000,21000
+3,Mariana Alves,Nordeste,2024-02-05,15000,14000
+4,Carlos Mendes,Sudeste,2024-02-18,22000,25000
+5,Julia Fernandes,Centro-Oeste,2024-03-02,17000,16000
+6,Rafael Costa,Sudeste,2024-03-15,20000,23000
+7,Beatriz Rocha,Nordeste,2024-03-22,16000,17500
+8,Gabriel Santos,Sul,2024-04-05,19000,20000
+9,Camila Martins,Nordeste,2024-04-12,15000,15500
+10,Bruno Oliveira,Centro-Oeste,2024-04-20,21000,19500
